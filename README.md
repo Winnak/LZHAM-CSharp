@@ -1,4 +1,4 @@
-# LZHAM for C#
+# [LZHAM](https://github.com/richgel999/lzham_codec) for C# #
 
 To compress a byte array in C# use:
 ```csharp
